@@ -11,6 +11,7 @@ body {
   padding-bottom: 24px;
   padding-right: 24px;
   padding-left: 24px;
+  text-align: center;
 }
 html {
     background-image: url('https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/41810341995087.57bd505fc7b34.gif');
