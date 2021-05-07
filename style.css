@@ -1,5 +1,5 @@
 body {
-  background-color: red;
+  background-color: blue;
   border: 2px solid Gray;
   border-radius: 16px;
   font-family: comic sans MS;
@@ -13,7 +13,8 @@ body {
   padding-left: 24px;
 }
 html {
-  background-color: lightgray
+    background-image: url('https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/41810341995087.57bd505fc7b34.gif');
+    background-size: 1400px 700px
 }
 stonks nav ul {
   list-style-type: none;
