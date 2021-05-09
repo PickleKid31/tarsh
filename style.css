@@ -88,3 +88,7 @@ a:active {
   background-color: black;
   color: white;
 }
+.site-code-embed-container {
+  width: 1000px;
+  height: 750px;
+}
