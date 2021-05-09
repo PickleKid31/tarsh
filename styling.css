@@ -62,3 +62,14 @@ strong {
 div {
   float: right;
 }
+nav li.selected {
+  color: Gray;
+}
+a:hover {
+  text-decoration: underline;
+}
+a:active {
+  text-decoration: underline;
+  background-color: black;
+  color: white;
+}
